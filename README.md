@@ -10,7 +10,7 @@ The dashboard enables business users to monitor key performance indicators (KPIs
 
 ## Dashboard Preview
 
-dashboard.png
+(Dashboard.png)
 
 ---
 
